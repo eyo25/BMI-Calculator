@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    height:600px;
+    align-items: center;
+}
+
+.style-container{
+    
+    background-color:white;
+    padding: 20px;
+    width: 500px;
+    height: 500px;
+    justify-self: center;
+    
+   
+}
+.weight{
+margin-top: 100px;
+flex: 1;
+
+}
+.height{
+margin-top: 100px;
+}
+.btn{
+margin-top: 100px;
+width:340px;
+height: 30px;
+background-color: yellowgreen;
+margin-left: 70px;
+
+
+}
+label{
+    font-weight: 100px;
+    display: flex;
+    margin-left: 70px;
+}
+body{
+    background-color: dimgray;
+}
+input{
+    width:340px;
+    height: 20px;
+    margin-left: 70px;
+}
